@@ -1,7 +1,7 @@
 package sample;
 
 /**
- * Hello world
+ * Hello world!
  *
  */
 public class App
